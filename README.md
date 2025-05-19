@@ -61,7 +61,7 @@ cd multi-llm-backend
 ### 4. Create Python 3.10 Environment
 
 ```bash
-python -m venv venv
+py -3.10 -m venv venv
 venv\Scripts\activate
 ```
 
