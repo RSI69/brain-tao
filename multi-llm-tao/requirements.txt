@@ -1,0 +1,16 @@
+pydantic==1.*
+sentencepiece
+llama-cpp-python==0.2.69
+faiss-cpu ; platform_system!="Windows"      # faiss omitted automatically on Win
+fastapi
+uvicorn
+transformers
+torch
+numpy
+duckdb
+bittensor
+llama-cpp-python
+eth_account
+slowapi
+requests
+beautifulsoup4
