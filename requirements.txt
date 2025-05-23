@@ -1,0 +1,20 @@
+PyYAML>=6.0
+
+sentencepiece
+llama-cpp-python==0.2.69
+faiss-cpu ; platform_system!="Windows"
+fastapi==0.99.1
+uvicorn
+transformers
+torch
+numpy
+duckdb
+eth_account
+slowapi
+requests
+beautifulsoup4
+python-dotenv
+scipy
+scikit-learn
+tqdm
+bittensor==6.9.0
