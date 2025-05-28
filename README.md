@@ -1,3 +1,5 @@
+THIS MODEL IS INCOMPLETE BUT IS STEPS AWAY FROM A BITTENSOR BASED MULTI LLM
+
 # Multi-LLM Bittensor Backend
 
 This is a fully decentralized, programmable AI backend using the Bittensor network.  
